@@ -1,3 +1,4 @@
 {
+  "dependencyDashboard": true,
   "abandonmentThreshold": "2 months"
 }
