@@ -1,4 +1,4 @@
 {
-  "extends": ["config:recommended"],
+  "extends": ["config:best-practices"],
   "dependencyDashboard": true
 }
